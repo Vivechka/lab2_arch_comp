@@ -1,0 +1,4 @@
+/cygdrive/d/USERS/Masha/Desktop/AchComp/lab2_arch_comp/build/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/USERS/Masha/Desktop/AchComp/lab2_arch_comp/build/CMakeFiles/edit_cache.dir
+/cygdrive/d/USERS/Masha/Desktop/AchComp/lab2_arch_comp/build/CMakeFiles/main.dir
+/cygdrive/d/USERS/Masha/Desktop/AchComp/lab2_arch_comp/build/CMakeFiles/calculator.dir
