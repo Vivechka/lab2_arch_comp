@@ -3,7 +3,7 @@
 
 int main()
 {
-  std::cout << "\n";
+  std::cout << "Hello, Sir\n";
 
   Calculator calc;
   double d1,d2;
